@@ -48,3 +48,4 @@ RIGHT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
 ORDER BY Orders.OrderID;
 
 -- Returns all the orders and all the employees 
+-- Additional line to check git integration from VSCode 
