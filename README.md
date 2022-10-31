@@ -1,1 +1,1 @@
-SQL Snippets to make life easier
+### SQL Snippets to make life easier
